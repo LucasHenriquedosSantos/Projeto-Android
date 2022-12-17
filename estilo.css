@@ -11,6 +11,7 @@
             margin: 0;
             padding: 0;
             border: 0;
+            text-indent:5px;
         }
         @font-face {
             font-weight: normal;
