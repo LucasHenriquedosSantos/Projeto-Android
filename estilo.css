@@ -76,7 +76,7 @@
             box-sizing: inherit;
             /*font-family: 'Luckiest Guy', cursive; */
             font-family:'Permanent Marker', cursive; 
-            margin-right:5px;  
+            padding:5px;  
             box-sizing:inherit ;
             border-radius: 0.5em;
             font-size:15px;
@@ -90,7 +90,7 @@
             /*color:rgb(251, 251, 251)*/
          }
         
-         nav > a:hover{ /* Pseudo classe */
+         nav >a:hover{ /* Pseudo classe */
             padding: 5px;
             background: yellow;
             }
